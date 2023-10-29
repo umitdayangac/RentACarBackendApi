@@ -1,0 +1,15 @@
+D:\Full-Stack-Development\Github\CSharp\RentACarBackendApi\DataAccess\bin\Debug\net6.0\DataAccess.deps.json
+D:\Full-Stack-Development\Github\CSharp\RentACarBackendApi\DataAccess\bin\Debug\net6.0\DataAccess.dll
+D:\Full-Stack-Development\Github\CSharp\RentACarBackendApi\DataAccess\bin\Debug\net6.0\DataAccess.pdb
+D:\Full-Stack-Development\Github\CSharp\RentACarBackendApi\DataAccess\bin\Debug\net6.0\Entities.dll
+D:\Full-Stack-Development\Github\CSharp\RentACarBackendApi\DataAccess\bin\Debug\net6.0\Entities.pdb
+D:\Full-Stack-Development\Github\CSharp\RentACarBackendApi\DataAccess\obj\Debug\net6.0\DataAccess.csproj.AssemblyReference.cache
+D:\Full-Stack-Development\Github\CSharp\RentACarBackendApi\DataAccess\obj\Debug\net6.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\Full-Stack-Development\Github\CSharp\RentACarBackendApi\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfoInputs.cache
+D:\Full-Stack-Development\Github\CSharp\RentACarBackendApi\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfo.cs
+D:\Full-Stack-Development\Github\CSharp\RentACarBackendApi\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CoreCompileInputs.cache
+D:\Full-Stack-Development\Github\CSharp\RentACarBackendApi\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CopyComplete
+D:\Full-Stack-Development\Github\CSharp\RentACarBackendApi\DataAccess\obj\Debug\net6.0\DataAccess.dll
+D:\Full-Stack-Development\Github\CSharp\RentACarBackendApi\DataAccess\obj\Debug\net6.0\refint\DataAccess.dll
+D:\Full-Stack-Development\Github\CSharp\RentACarBackendApi\DataAccess\obj\Debug\net6.0\DataAccess.pdb
+D:\Full-Stack-Development\Github\CSharp\RentACarBackendApi\DataAccess\obj\Debug\net6.0\ref\DataAccess.dll

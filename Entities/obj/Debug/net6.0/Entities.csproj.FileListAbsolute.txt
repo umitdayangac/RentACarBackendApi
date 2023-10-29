@@ -1,0 +1,11 @@
+D:\Full-Stack-Development\Github\CSharp\RentACarBackendApi\Entities\bin\Debug\net6.0\Entities.deps.json
+D:\Full-Stack-Development\Github\CSharp\RentACarBackendApi\Entities\bin\Debug\net6.0\Entities.dll
+D:\Full-Stack-Development\Github\CSharp\RentACarBackendApi\Entities\bin\Debug\net6.0\Entities.pdb
+D:\Full-Stack-Development\Github\CSharp\RentACarBackendApi\Entities\obj\Debug\net6.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+D:\Full-Stack-Development\Github\CSharp\RentACarBackendApi\Entities\obj\Debug\net6.0\Entities.AssemblyInfoInputs.cache
+D:\Full-Stack-Development\Github\CSharp\RentACarBackendApi\Entities\obj\Debug\net6.0\Entities.AssemblyInfo.cs
+D:\Full-Stack-Development\Github\CSharp\RentACarBackendApi\Entities\obj\Debug\net6.0\Entities.csproj.CoreCompileInputs.cache
+D:\Full-Stack-Development\Github\CSharp\RentACarBackendApi\Entities\obj\Debug\net6.0\Entities.dll
+D:\Full-Stack-Development\Github\CSharp\RentACarBackendApi\Entities\obj\Debug\net6.0\refint\Entities.dll
+D:\Full-Stack-Development\Github\CSharp\RentACarBackendApi\Entities\obj\Debug\net6.0\Entities.pdb
+D:\Full-Stack-Development\Github\CSharp\RentACarBackendApi\Entities\obj\Debug\net6.0\ref\Entities.dll
